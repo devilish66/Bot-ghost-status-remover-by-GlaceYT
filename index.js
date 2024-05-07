@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bot oficial da Pixelflow Studio","Melhor Loja de Design!"];
+const statusMessages = ["Bot oficial da Pixelflow Studio", "Melhor Loja de Design!",];
 
 
 let currentIndex = 0;
